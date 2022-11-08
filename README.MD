@@ -2,6 +2,6 @@
 ![turrnut's most-used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turrnut&layout=compact&theme=github_dark)
 
 <p align="center"> 
-  # of visitors<br>
+  <h3># of visitors</h3><br>
   <img src="https://profile-counter.glitch.me/turrnut/count.svg" />
 </p>
