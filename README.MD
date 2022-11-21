@@ -1,6 +1,6 @@
 #### 👋 hi, I am turrnut, a solo programmer who enojoys building programming languages and operating systems
 #### 📚 I am currently learning more about [Neural Networks](https://www.tensorflow.org/)
-#### ✉️ How to reach me: [Click here](https://discord.gg/HVDPrSQ3) to join my discord server!!!
+#### ✉️ How to reach me: [Click here](https://discord.gg/xQXK38PwEn) to join my discord server!!!
 #### Java ☕, C++ © and Python 🐍 are my languages
 ![turrnut's github status](https://github-readme-stats.vercel.app/api?username=turrnut&layout=compact&theme=github_dark)
 ![turrnut's most-used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turrnut&layout=compact&theme=github_dark)
