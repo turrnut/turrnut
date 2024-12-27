@@ -15,7 +15,7 @@ I know Java, JavaScript, C, Python, and my custom-built languages. Check out my 
 ---
 
 <div align="center">
-  <h3>Visitor Count</h3>
+  <h3> 📷 My YouTube Channel</h3>
 <a href="https://www.youtube.com/@turrnut"> Explore videos about History and Politics</a>
 </div
 
