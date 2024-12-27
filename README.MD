@@ -17,7 +17,7 @@ I know Java, JavaScript, C, Python, and my custom-built languages. Check out my 
 ### 🌐 See also:
 - [**Website**](https://www.turrnut.com)
 - [**YouTube Channel**](https://www.youtube.com/@turrnut)
-- [**Discord Server**](discord.gg/F8mpvVgjNs)
+- [**Discord Server**](https://discord.gg/F8mpvVgjNs)
 
 ---
 
