@@ -11,7 +11,8 @@ I know Java, JavaScript, C, Python, and my custom-built languages. Check out my 
 ### 📊 GitHub Statistics
 ![Turrnut's GitHub stats](https://github-readme-stats.vercel.app/api?theme=transparent&username=turrnut&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turrnut&layout=compact) 
-<div align="center"> <a href="https://www.youtube.com/@turrnut"> <h3>📺 My YouTube Channel</h3></a> <p>Explore videos about History and Politics:</p>  </div> 
+### 📺 My YouTube Channel:
+[Explore videos about History and Politics](https://www.youtube.com/@turrnut)
 
 ### 🌐 See also:
 - [**Website**](https://www.turrnut.com)
