@@ -4,7 +4,7 @@
 #### Java ☕, JavaScript 🟨, C and Python 🐍 are languages used by me
 #### NodeJS 🎮, Tensorflow 🧠, NumPy 🔢 are framework/libraries used by me
 ![Turrnut's GitHub stats](https://github-readme-stats.vercel.app/api?theme=transparent&username=turrnut&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turrnut&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turrnut) 
 ## Learn More
 
 [Official Website](https://www.turrnut.com)
