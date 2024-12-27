@@ -1,18 +1,26 @@
-#### 👋 hi, I am turrnut, a programmer who enjoys building programming languages and operating systems
-#### 📚 I am currently learning more about [Neural Networks](https://www.tensorflow.org/)
-#### ✉️ How to reach me: [Click here](discord.gg/F8mpvVgjNs) to join my discord server!!!
-#### Java ☕, JavaScript 🟨, C and Python 🐍 are languages used by me
-#### NodeJS 🎮, Tensorflow 🧠, NumPy 🔢 are framework/libraries used by me
+# Hello! 👋
+
+### I enjoy building programming languages.
+I know Java, JavaScript, C, Python, and my custom-built languages. Check out my projects:
+- **[SIMAS](https://github.com/turrnut/simas)** - A high-level, dynamic typed, procedural language with a syntax inspired by Assembly that compiles to bytecode.
+- **[Emi](https://github.com/turrnut/Emi)** - A simple JIT compiled language 
+- **[C♮ (CNatural)](https://github.com/turrnut/CNatural/)** - Modern C-like language, with a simpler syntax.
+
+---
+
+### 📊 GitHub Statistics
 ![Turrnut's GitHub stats](https://github-readme-stats.vercel.app/api?theme=transparent&username=turrnut&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turrnut) 
-## Learn More
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turrnut&layout=compact) 
+<div align="center"> <a href="https://www.youtube.com/@turrnut"> <h3>📺 My YouTube Channel</h3></a> <p>Explore videos about History and Politics:</p>  </div> 
 
-[Official Website](https://www.turrnut.com)
-<br><br>
-[YouTube Channel](https://www.youtube.com/@turrnut)
-<br>
+### 🌐 See also:
+- [**Website**](https://www.turrnut.com)
+- [**YouTube Channel**](https://www.youtube.com/@turrnut)
+- [**Discord Server**](discord.gg/F8mpvVgjNs)
 
-<p align="center"> 
-  <h3># of visitors</h3><br>
-  <img src="https://profile-counter.glitch.me/turrnut/count.svg" />
-</p>
+---
+
+<div align="center">
+  <h3>Visitor Count</h3>
+  <img src="https://profile-counter.glitch.me/turrnut/count.svg" alt="Visitor Count" />
+</div>
