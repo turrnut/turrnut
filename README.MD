@@ -19,10 +19,14 @@ I know Java, JavaScript, C, Python, and my custom-built languages. Check out my 
 <a href="https://www.youtube.com/@turrnut"> Explore videos about History and Politics</a>
 </div
 
+---
+
 ### 🌐 See also:
 - [**Website**](https://www.turrnut.com)
 - [**YouTube Channel**](https://www.youtube.com/@turrnut)
 - [**Discord Server**](https://discord.gg/F8mpvVgjNs)
+- [**𝕏(or Twitter)**](https://x.com/turrnut/)
+- [**Subreddit**](https://reddit.com/r/turrnut)
 
 ---
 
