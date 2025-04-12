@@ -3,7 +3,7 @@
 ### I enjoy building programming languages.
 I know Java, JavaScript, C, Python, and my custom-built languages. Check out my projects:
 - **[SIMAS](https://github.com/turrnut/simas)** - A high-level, dynamic typed, procedural language with a syntax inspired by Assembly that compiles to bytecode.
-- **[Emi](https://github.com/turrnut/Emi)** - A simple JIT compiled language 
+- **[turrnut.com](https://github.com/turrnut/turrnut.com)** - My very own website! 
 - **[C♮ (*C Natural*)](https://github.com/turrnut/CNatural/)** - Modern C-like language, with a simpler syntax.
 
 ---
