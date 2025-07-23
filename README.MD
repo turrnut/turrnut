@@ -30,7 +30,4 @@ I know Java, JavaScript, C, Python, and my custom-built languages. Check out my 
 
 ---
 
-<div align="center">
-  <h3>Visitor Count</h3>
   ![counter](https://komarev.com/ghpvc/?username=turrnut)
-</div>
